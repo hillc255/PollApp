@@ -29,11 +29,11 @@ Python with JavaScript and HTML
 
 ## Run the Application
 
-Delete existing pycache file then execute the commands below:
+Delete existing pycache and pythonsqlite.db files then execute the commands below:
 
-$python dbsetup.py
+$python dbsetup.py # sets up the new db
 
-$flask run
+$flask run # runs the app
 
 
 
