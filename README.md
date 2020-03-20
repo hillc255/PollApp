@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-This is polling application which graphs the results of the poll in a bar graph.
+This is a polling application which graphs the results of the poll in a bar graph.
 
 I followed the tutorial to build the live polling app:
 https://pusher.com/tutorials/live-poll-python
@@ -21,7 +21,9 @@ https://github.com/neoighodaro/python-realtime-poll-pusher
 ## Technologies
 
 Pusher - Hosted APIs to build realtime apps with less code
+
 Python - a programming language that lets you work quickly and integrate systems more effectively
+
 Flask - a microframework for Python based on Werkzeug, Jinja 2 and good intentions
 
 
