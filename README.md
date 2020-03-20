@@ -15,7 +15,7 @@ https://github.com/neoighodaro/python-realtime-poll-pusher
 </p>
 
 <p>
- <kbd><img width="500" height="300" src="readme_assets/graph.gif"></kbd>
+ <kbd><img width="500" height="300" src="readme_assets/chart.gif"></kbd>
 </p>
 
 ## Technologies
