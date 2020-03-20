@@ -20,11 +20,11 @@ https://github.com/neoighodaro/python-realtime-poll-pusher
 
 ## Technologies
 
-Pusher - Hosted APIs to build realtime apps with less code
+Pusher - Hosted APIs to build realtime apps
 
-Python - a programming language that lets you work quickly and integrate systems more effectively
+Flask - a microframework for Python based on Werkzeug and Jinja 2
 
-Flask - a microframework for Python based on Werkzeug, Jinja 2 and good intentions
+Python with JavaScript and HTML
 
 
 ## Run the Application
